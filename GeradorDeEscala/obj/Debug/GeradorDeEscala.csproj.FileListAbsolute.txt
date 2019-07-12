@@ -1,0 +1,9 @@
+C:\Users\PauloCezar\source\repos\GeradorDeEscala\GeradorDeEscala\bin\Debug\GeradorDeEscala.exe.config
+C:\Users\PauloCezar\source\repos\GeradorDeEscala\GeradorDeEscala\bin\Debug\GeradorDeEscala.exe
+C:\Users\PauloCezar\source\repos\GeradorDeEscala\GeradorDeEscala\bin\Debug\GeradorDeEscala.pdb
+C:\Users\PauloCezar\source\repos\GeradorDeEscala\GeradorDeEscala\obj\Debug\GeradorDeEscala.csprojAssemblyReference.cache
+C:\Users\PauloCezar\source\repos\GeradorDeEscala\GeradorDeEscala\obj\Debug\GeradorDeEscala.Properties.Resources.resources
+C:\Users\PauloCezar\source\repos\GeradorDeEscala\GeradorDeEscala\obj\Debug\GeradorDeEscala.csproj.GenerateResource.cache
+C:\Users\PauloCezar\source\repos\GeradorDeEscala\GeradorDeEscala\obj\Debug\GeradorDeEscala.csproj.CoreCompileInputs.cache
+C:\Users\PauloCezar\source\repos\GeradorDeEscala\GeradorDeEscala\obj\Debug\GeradorDeEscala.exe
+C:\Users\PauloCezar\source\repos\GeradorDeEscala\GeradorDeEscala\obj\Debug\GeradorDeEscala.pdb
